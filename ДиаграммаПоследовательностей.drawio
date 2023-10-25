@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T15:48:36.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="v1dhset63cF8n-UhSL4g" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T15:48:45.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="pMIv35HibL5kefj_u52V" version="22.0.7" type="github">
   <diagram name="Страница — 1" id="T8kGE10amlnnFg_iXfAe">
-    <mxGraphModel dx="514" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="355" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DDndBa3pNJd_T9fPR2jt-44" value="&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;addNewClientWithOrder()&lt;/font&gt;&lt;/span&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.04" y="20" width="160" relative="1" as="geometry">
+          <mxGeometry x="0.04" y="10" width="160" relative="1" as="geometry">
             <mxPoint x="135" y="160" as="sourcePoint" />
             <mxPoint x="260" y="160" as="targetPoint" />
             <mxPoint as="offset" />
