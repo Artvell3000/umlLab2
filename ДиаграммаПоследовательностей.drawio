@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T18:46:36.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="t01mzto612m4N3oSYBFp" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T18:47:17.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="TzuC3VTLiKXRn8AGRljO" version="22.0.7" type="github">
   <diagram name="Страница — 1" id="T8kGE10amlnnFg_iXfAe">
-    <mxGraphModel dx="622" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DDndBa3pNJd_T9fPR2jt-14" value="sd BeautySalon.&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;addNewClientWithOrder&lt;/span&gt;()" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="1">
-          <mxGeometry x="10" y="190" width="780" height="390" as="geometry" />
+          <mxGeometry x="-10" y="190" width="800" height="390" as="geometry" />
         </mxCell>
         <mxCell id="DDndBa3pNJd_T9fPR2jt-15" value=":BeautySalon" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="100" height="330" as="geometry" />
@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DDndBa3pNJd_T9fPR2jt-62" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;addToDataBase()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="273" width="110" height="30" as="geometry" />
+          <mxGeometry x="-10" y="275" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
