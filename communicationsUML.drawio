@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T15:16:01.311Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1028 YaBrowser/23.9.0.0 Safari/537.36" etag="Zkb7pVyBd6q5q15KVVj2" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T15:16:18.701Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1028 YaBrowser/23.9.0.0 Safari/537.36" etag="Wxq2tMb-RyqBgr1NTff5" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="CmyEx2-zxZ6OVXl3N_ZN">
     <mxGraphModel dx="1316" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,15 +59,6 @@
             <mxPoint x="140" y="500" as="sourcePoint" />
             <mxPoint x="180" y="500" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OmQsKzWxedMeeMVMavyf-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OmQsKzWxedMeeMVMavyf-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OmQsKzWxedMeeMVMavyf-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="414" y="70" width="30" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
