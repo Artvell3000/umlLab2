@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T14:23:09.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="sBqNS-35ZljMikV1Qkoo" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T14:36:00.145Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1028 YaBrowser/23.9.0.0 Safari/537.36" etag="33RJp9GPZICacV0fRzy5" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="622" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1316" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -36,18 +36,18 @@
           <mxGeometry y="90" width="192.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="WC2MRUz_Te2z9GJoH_zq-6" value="Client" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=16;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="160" width="180" height="82" as="geometry">
+          <mxGeometry x="300" y="130" width="180" height="100" as="geometry">
             <mxRectangle x="317.5" y="177" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WC2MRUz_Te2z9GJoH_zq-25" value="+idCliient: Integer {readOnly}&lt;br&gt;+nickname: String {readOnly}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WC2MRUz_Te2z9GJoH_zq-6" vertex="1">
           <mxGeometry y="16" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WC2MRUz_Te2z9GJoH_zq-27" value="+payTheBill(o: Order)" style="whiteSpace=wrap;html=1;align=left;" parent="WC2MRUz_Te2z9GJoH_zq-6" vertex="1">
-          <mxGeometry y="56" width="180" height="26" as="geometry" />
+        <mxCell id="WC2MRUz_Te2z9GJoH_zq-27" value="+payTheBill(o: Order)&lt;br&gt;+addNewOrder()" style="whiteSpace=wrap;html=1;align=left;" parent="WC2MRUz_Te2z9GJoH_zq-6" vertex="1">
+          <mxGeometry y="56" width="180" height="44" as="geometry" />
         </mxCell>
         <mxCell id="WC2MRUz_Te2z9GJoH_zq-7" value="BeautySalon" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=25;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="315" y="289" width="150" height="80" as="geometry" />
+          <mxGeometry x="315" y="268" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2a3KDhAAtPxG6KFBujEm-0" value="&lt;u&gt;+getInfo(): String&lt;br&gt;+addNewClientWithOrder()&lt;br&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WC2MRUz_Te2z9GJoH_zq-7" vertex="1">
           <mxGeometry y="25" width="150" height="55" as="geometry" />
@@ -74,7 +74,7 @@
             <mxPoint x="427.5" y="244" as="sourcePoint" />
             <mxPoint x="210" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="215" y="200" />
+              <mxPoint x="215" y="171" />
             </Array>
           </mxGeometry>
         </mxCell>
