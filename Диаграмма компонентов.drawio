@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T12:50:32.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" version="22.0.8" etag="simQeUdXit6AtFhZqhmk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T12:51:56.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="TYXeAtcn2I2WCpUut9eA" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="UN3PO6J6ENUmfjxG8Bfi">
-    <mxGraphModel>
+    <mxGraphModel dx="1062" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AseBVmKS-YQ3lQWYqwFw-1" value="&amp;lt;&amp;lt;component&amp;gt;&amp;gt;&lt;br&gt;Salon System" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;jettyWidth=44;jettyHeight=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="630" height="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
