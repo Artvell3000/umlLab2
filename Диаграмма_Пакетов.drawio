@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T11:47:21.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="ir4abyUSdCAlsjDAgH-A" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T11:47:34.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="vckYAD-Mtz729yalErsr" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="7rhQbuFe_-9_RXr2HvZd">
     <mxGraphModel dx="1062" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s2ad0YZ6BnSwc8JYi69Y-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=60;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="210" height="140" as="geometry" />
+          <mxGeometry x="370" y="120" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="s2ad0YZ6BnSwc8JYi69Y-2" value="WebUI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="190" width="70" height="50" as="geometry" />
+          <mxGeometry x="490" y="190" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s2ad0YZ6BnSwc8JYi69Y-3" value="MobileUI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="70" height="50" as="geometry" />
+          <mxGeometry x="390" y="190" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s2ad0YZ6BnSwc8JYi69Y-4" value="UI" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="110" width="80" height="46" as="geometry" />
+          <mxGeometry x="360" y="110" width="80" height="46" as="geometry" />
         </mxCell>
         <mxCell id="s2ad0YZ6BnSwc8JYi69Y-5" value="Salon System" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="300" y="380" width="110" height="90" as="geometry" />
+          <mxGeometry x="420" y="380" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s2ad0YZ6BnSwc8JYi69Y-6" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=120;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="620" y="235" width="150" height="350" as="geometry" />
