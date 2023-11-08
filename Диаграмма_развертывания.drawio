@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T14:44:02.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" version="22.0.8" etag="gZKl5nxa5XRdzALqtAos" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:56:35.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="31-66ofO6S63hqER1b9q" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="_ez9uo1AQvyD8jwG9sCH">
-    <mxGraphModel>
+    <mxGraphModel dx="1469" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-1" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="240" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-2" value="&quot;executionEnviroment&quot;&lt;br&gt;AuthorizationService" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-3" value="&quot;executionEnviroment&quot;&lt;br&gt;SalonService" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-4" value="&quot;device&quot;&lt;br&gt;AnalyticsService" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="110" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-6" value="&quot;executionEnviroment&quot;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ExecutionService" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="230" y="201" width="150" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="230" y="276" width="150" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="W2oYJr7Hnms09iLLTKaI-9" value="&quot;executionEnviroment&quot;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ExecutionService" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="180" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
