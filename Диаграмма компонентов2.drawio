@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T04:03:28.014Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 YaBrowser/23.9.0.0 Safari/537.36" etag="ZjSMUsgbVf7b9ygAmnpT" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T04:11:31.149Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 YaBrowser/23.9.0.0 Safari/537.36" etag="DaT3ECSpFDOeDNYJfmUW" version="22.1.0" type="github">
   <diagram name="Страница — 1" id="3VgCwtWAal_WpDqNykTl">
     <mxGraphModel dx="1196" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
             <mxPoint x="424" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UUL30bu8ojap-xqebIFd-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UUL30bu8ojap-xqebIFd-10" target="UUL30bu8ojap-xqebIFd-22">
+        <mxCell id="UUL30bu8ojap-xqebIFd-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UUL30bu8ojap-xqebIFd-10" target="UUL30bu8ojap-xqebIFd-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="815" as="sourcePoint" />
             <mxPoint x="434" y="815" as="targetPoint" />
@@ -296,7 +296,7 @@
             <mxPoint x="498" y="973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UUL30bu8ojap-xqebIFd-44" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UUL30bu8ojap-xqebIFd-22" target="UUL30bu8ojap-xqebIFd-30">
+        <mxCell id="UUL30bu8ojap-xqebIFd-44" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UUL30bu8ojap-xqebIFd-30" target="UUL30bu8ojap-xqebIFd-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="800" as="sourcePoint" />
             <mxPoint x="450" y="800" as="targetPoint" />
@@ -310,7 +310,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UUL30bu8ojap-xqebIFd-48" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UUL30bu8ojap-xqebIFd-22" target="UUL30bu8ojap-xqebIFd-46">
+        <mxCell id="UUL30bu8ojap-xqebIFd-48" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.083;entryY=1.051;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="UUL30bu8ojap-xqebIFd-30" target="UUL30bu8ojap-xqebIFd-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="840" as="sourcePoint" />
             <mxPoint x="631" y="918" as="targetPoint" />
