@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T04:03:19.147Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 YaBrowser/23.9.0.0 Safari/537.36" etag="p4bTWzqOsxwC5vDq2MYj" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T04:03:28.014Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 YaBrowser/23.9.0.0 Safari/537.36" etag="ZjSMUsgbVf7b9ygAmnpT" version="22.1.0" type="github">
   <diagram name="Страница — 1" id="3VgCwtWAal_WpDqNykTl">
     <mxGraphModel dx="1196" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UUL30bu8ojap-xqebIFd-30" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;«Component»&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SalonController&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;options&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;CheckPass()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;GiveAccsess()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;SaveOrder()&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="902" width="180" height="108" as="geometry" />
+          <mxGeometry x="530.5" y="898" width="180" height="108" as="geometry" />
         </mxCell>
         <mxCell id="UUL30bu8ojap-xqebIFd-31" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="UUL30bu8ojap-xqebIFd-30">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
