@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T14:35:00.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.686 YaBrowser/23.9.5.686 Yowser/2.5 Safari/537.36" etag="__GbAeTN4Lu51x7Re_0a" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T14:36:07.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.686 YaBrowser/23.9.5.686 Yowser/2.5 Safari/537.36" etag="WUYq-6S-OT4-PN2-JQd7" version="22.1.5" type="github">
   <diagram name="Страница — 1" id="lFnGImNsN8b0KiDPfHUL">
     <mxGraphModel dx="1002" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="780" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9dnl6zGS5A68UmjjQ8_F-6" value="Записаться на приём" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9dnl6zGS5A68UmjjQ8_F-8" value="Посмотреть расписание мастеров" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="70" width="120" height="80" as="geometry" />
@@ -60,12 +60,6 @@
         </mxCell>
         <mxCell id="9dnl6zGS5A68UmjjQ8_F-21" value="Отменить свою запись" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227" y="560" width="187" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9dnl6zGS5A68UmjjQ8_F-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.013;entryY=0.38;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="9dnl6zGS5A68UmjjQ8_F-1" target="9dnl6zGS5A68UmjjQ8_F-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="254" as="sourcePoint" />
-            <mxPoint x="240" y="300" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9dnl6zGS5A68UmjjQ8_F-23" value="extend" style="html=1;verticalAlign=bottom;endArrow=classicThin;dashed=1;endSize=8;curved=0;rounded=0;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.737;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9dnl6zGS5A68UmjjQ8_F-21" target="9dnl6zGS5A68UmjjQ8_F-6">
           <mxGeometry relative="1" as="geometry">
