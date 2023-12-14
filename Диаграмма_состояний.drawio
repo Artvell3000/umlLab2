@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T09:00:31.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.2471 YaBrowser/23.11.0.2471 Yowser/2.5 Safari/537.36" etag="GYMwOq9fW3wWTSRVVfQ7" version="22.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T03:02:38.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.732 YaBrowser/23.11.1.732 Yowser/2.5 Safari/537.36" etag="vxY3xWrg7VtCYWQE2HDa" version="22.1.8" type="github">
   <diagram name="Страница — 1" id="i03Dcrw-lSY2_fy-uRdG">
-    <mxGraphModel dx="2004" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1336" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,6 +148,48 @@
         </mxCell>
         <mxCell id="OkwgzxEuTPkFEzWDDE73-98" value="отзыв сформирован/ отправление" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1230" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-1" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DbrJvrU1StrYY2XCQFml-10">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="670" as="sourcePoint" />
+            <mxPoint x="110" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="980" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DbrJvrU1StrYY2XCQFml-3" target="DbrJvrU1StrYY2XCQFml-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-3" value="модерация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DbrJvrU1StrYY2XCQFml-4" target="DbrJvrU1StrYY2XCQFml-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-4" value="отправлен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DbrJvrU1StrYY2XCQFml-5" target="DbrJvrU1StrYY2XCQFml-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-5" value="опубликован" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DbrJvrU1StrYY2XCQFml-10" target="DbrJvrU1StrYY2XCQFml-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-10" value="в процессе редактирования" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-15" value="сформирован отзыв/ отправлен&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-16" value="Отзыв принят/ Отзыв проходит модерацию" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DbrJvrU1StrYY2XCQFml-17" value="модерация пройдена / публикация отзыва на сайте&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
